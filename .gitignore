@@ -1,5 +1,0 @@
-/app/config/*_dev_*.yml
-/docroot/
-/output_*/
-/sass/.sass-cache/
-/vendor
